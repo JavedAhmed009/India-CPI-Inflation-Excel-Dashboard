@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard analysing India's Consumer Price Index (CPI) inflation for 2013-2023 on 10,000+ cleaned records, built with pivot tables, charts and formulas.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.png)
 
 ## Objective
 
